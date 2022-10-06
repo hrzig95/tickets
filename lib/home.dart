@@ -34,7 +34,7 @@ class Home extends StatelessWidget {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text('Thermal Printer')),
+      appBar: null,
       body: Column(
         children: <Widget>[
           Expanded(
